@@ -5,3 +5,7 @@ Esto es una prueba para ver si aparece lo que espero que aparezca al hacer las c
 ## Subsección
 
 A ver si las cosas son como espero...
+
+## Enlace local
+
+[esto es un enlace local](./test.html)
